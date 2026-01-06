@@ -3,7 +3,8 @@
 
 int main(){
 
-//Que-1 length of string
+//Que-1 length of string 
+// to find length of string
 
 
     char str[100];
